@@ -8,4 +8,3 @@
 - JavaScipt
 - HTML
 - Pseint
-🏳️‍🌈 
