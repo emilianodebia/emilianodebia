@@ -125,15 +125,6 @@
                 alt="mysql"
                 width="40"
                 height="40"
-        />
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-                alt="nestjs"
-                width="40"
-                height="40"
-        />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
@@ -143,25 +134,7 @@
                 height="40"
         />
     </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-                alt="redis"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-                alt="sass"
-                width="40"
-                height="40"
-        />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-    </a>
+ 
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
