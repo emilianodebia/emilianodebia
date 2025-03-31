@@ -13,12 +13,8 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on `webgis` Development.
-- 🌱 I’m currently learning `webgl` and `threejs`
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
-- 💬 Ping me about **vue**, **fullstack**, **development**, **design**
+- 😛Estudio en el proa.
+- 👽 Voy a sexto.
 
 </td>
 <td width="50%" align="center">
