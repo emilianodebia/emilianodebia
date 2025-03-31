@@ -8,7 +8,6 @@
     <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
 <table align="center">
 <tr border="none">
